@@ -1,7 +1,7 @@
 {
-  "name": "ANAYAT-AI",
+  "name": "𝕹𝖊𝖝𝖗𝖊𝖆𝖕𝖊𝖗",
   "version": "5.0.0",
-  "description": "A WhatsApp Bot Created By ANAYAT-AI",
+  "description": "A WhatsApp Bot Created By 𝕹𝖊𝖝𝖗𝖊𝖆𝖕𝖊𝖗",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name ANAYAT-AI",
