@@ -1,6 +1,6 @@
-name: ANAYAT-AI
+name: 𝕹𝖊𝖝𝖗𝖊𝖆𝖕𝖊𝖗-bot
 services:
-  - name: ANAYAT-AI-service
+  - name: 𝕹𝖊𝖝𝖗𝖊𝖆𝖕𝖊𝖗-Bot-service
     type: web
     ports:
       - 5000
