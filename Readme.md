@@ -1,4 +1,4 @@
-[![ANAYAT-AI](https://raw.githubusercontent.com/ANAYAT-AI/ANAYAT-AI/main/ANAYAT-AI/anayat.svg)](https://whatsapp.com/channel/0029VbAm8LqL2ATpxklIct2g)
+[![Nexreaper-bot](https://raw.githubusercontent.com/ANAYAT-AI/ANAYAT-AI/main/ANAYAT-AI/anayat.svg)](https://whatsapp.com/channel/0029VbAm8LqL2ATpxklIct2g)
 
 ___
 
