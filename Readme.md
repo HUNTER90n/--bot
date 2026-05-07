@@ -3,7 +3,7 @@
 ___
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=⚡+ANAYAT-AI+Powerful+Bot+⚡;Next+Gen+WhatsApp+AI+Bot;Fast+%7C+Secure+%7C+Multi-Device;Deploy+Now+and+Rule+🚀" alt="ANAYAT-AI Animated Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=⚡+Nexreaper-Ai+Powerful+Bot+⚡;Next+Gen+WhatsApp+AI+Bot;Fast+%7C+Secure+%7C+Multi-Device;Deploy+Now+and+Rule+🚀" alt="ANAYAT-AI Animated Banner" />
 </h1>
 
 ___
